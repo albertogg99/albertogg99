@@ -1,2 +1,2 @@
-![coloraboutme](https://user-images.githubusercontent.com/50078845/130334888-33a34ef7-aee1-43d5-9413-73112106f449.png)
+![coloraboutme](https://user-images.githubusercontent.com/50078845/130334925-105fa360-837a-4183-8e57-19e229c1d293.png)
 
