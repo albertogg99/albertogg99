@@ -1,4 +1,4 @@
-### Hi there 👋
+![aboutmeimg](https://user-images.githubusercontent.com/50078845/130334524-feb532d9-c7de-4a48-84a2-952b161e87b2.png)
 
 <!--
 **albertogg99/albertogg99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
